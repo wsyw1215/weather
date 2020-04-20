@@ -1,0 +1,16 @@
+.search-area {
+    width: 100%;
+
+}
+
+.search-error {
+    color: red;
+}
+
+.search-area input {
+    margin: 1rem;
+    width: 80%;
+    height: 60px;
+    font-size: 24px;
+    padding-left: 1rem;
+}
